@@ -2,7 +2,7 @@
 CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 ## competences
 
-### dev
+### developpement
 - html
 - css
 - python
