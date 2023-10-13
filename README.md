@@ -24,7 +24,6 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 ### economie droit management
 -RGPD
 -agent économiques
-### Données à caractère personnel
 ### autres
 -jmot
 -photoshop
