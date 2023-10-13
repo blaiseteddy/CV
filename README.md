@@ -12,6 +12,7 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 - Anglais
 - Français
 - Italien
+- espagnol
 ## competenceS system
 -windows
 -linux
