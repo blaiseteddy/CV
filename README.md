@@ -12,7 +12,6 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 - Anglais
 - Français
 - Italien
-- espagnol
 ## competenceS system
 -windows
 -linux
@@ -22,7 +21,6 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 -Cisco Packet Tracer
 -Cisco Networking Essential
 ### economie droit management
--RGPD
 -agent économiques
 ### autres
 -jmot
