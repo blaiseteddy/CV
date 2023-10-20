@@ -8,17 +8,19 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 - python
 - git
 - php
+- Sql
   
 ### langues
 - Anglais
 - Français
 - Italien
 - espagnol
-### competences system
-- windows
-- linux
+### admin système
+- windows (powershell)
+- linux   
 
 ### virtualisation
+- virtual box
 - virtualisation linux
 - virtualisation windows
   
@@ -39,5 +41,4 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 ### logiciel utilisé
 - Matlab
 - psim
-- python
 - laragon
