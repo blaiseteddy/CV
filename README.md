@@ -7,6 +7,7 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 - css
 - python
 - git
+- php
   
 ### langues
 - Anglais
@@ -17,7 +18,8 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 -windows
 -linux
 ### virtualisation
--virtualbox
+-virtualisation linux
+-virtualisation windows
 ### reseau
 -Cisco Packet Tracer
 -Cisco Networking Essential
