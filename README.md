@@ -13,13 +13,13 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 - Français
 - Italien
 - espagnol
-### competenceS system
+## competenceS system
 -windows
 -linux
-### virtualisation
+##virtualisation
 -virtualisation linux
 -virtualisation windows
-### reseau
+## reseau
 -Cisco Packet Tracer
 -Cisco Networking Essential
 ### economie droit management
