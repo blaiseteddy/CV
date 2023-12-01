@@ -29,12 +29,12 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 - virtualisation linux
 - virtualisation windows
   
-### reseau
+### CERTIFICATION
 - cisco packet tracer
 - cisco networking essential
 - introduction to cybersécurité
 
-### economie droit management
+### economie droit managemenT
  -agent économique
  management des entreprises
  
