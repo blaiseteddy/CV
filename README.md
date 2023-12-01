@@ -8,7 +8,8 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 - python
 - git
 - php
-  java srcipt
+- boostrap
+- javasrcipt
   
 ### langues
 - Anglais
@@ -34,6 +35,7 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 
 ### economie droit management
  -agent économique
+ management des entreprises
  
 ### modélisation 3D
 - solid works
@@ -41,6 +43,8 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 ### autres
 - jmot
 - photoshop
+- montage vidéo tiktok
+- gestion de parc informatique
   
 ### logiciel utilisé
 - Matlab
@@ -48,3 +52,4 @@ CV de blaise mahoungou étudiant en BTS informatique cybersécurité
 - laragon
 - notpad+
 - visual studio code
+- boostrap
