@@ -1,5 +1,6 @@
 # CV
 CV de blaise mahoungou étudiant en BTS informatique cybersécurité
+[logo](photo.JPG)
 
 
 ### developpement
